@@ -9,7 +9,7 @@ We use a publicly available dataset. The dataset includes features like opening 
 Google Stock Price:(https://finance.yahoo.com/quote/GOOG/history)
 
 ## Participation 🤝
-We welcome contributions to improve the project. If you have any suggestions, bug fixes or new features to add, please send a request to the gmail below.
+We welcome contributions to improve the project. If you have any suggestions, bug fixes or new features to add, please send a request to the Email below.
 - **Email:** elhamoarmin82@gmail.com
 
 
