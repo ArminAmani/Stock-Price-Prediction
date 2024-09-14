@@ -13,4 +13,4 @@ We welcome contributions to improve the project. If you have any suggestions, bu
 - **Email:** elhamoarmin82@gmail.com
 
 
-thank you for visiting. Happy predicting
+thank you for visiting. Happy predicting!
